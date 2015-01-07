@@ -39,7 +39,9 @@
         text-transform: uppercase;
         letter-spacing: 4px;
         transform-origin: left;
-        color: #ffffff
+        color: #ffffff;
+        padding-bottom: 20px;
+            
         }
         
         h1, h2, h3 {
@@ -52,14 +54,31 @@
            font-family: 'langdon';
             font-size: 40px;
             letter-spacing: 4px;
-           text-transform: uppercase
-               
-       }
+           text-transform: uppercase;
+           padding-top: 20px;
+           padding-bottom: 15px;
+            border-top: 1px solid #36393a;
+            background-color: #36393a}
+            
+
+
+
+
+
     .Intro {
             font-style: normal;
             font-size: 20px;
             text-align: center;
             margin-top: 30px;
+        
+    }
+
+   
+ p {
+ font-size: }
+    .AMP {font size: 50px;
+        
+        
         
     }
 
@@ -76,7 +95,7 @@
     
     a:hover {
         text-decoration: underline;
-        color: #5aa9a8;        
+        color: #ffffff;        
         }
         
      nav ul {
@@ -91,6 +110,7 @@
         nav {
             border-top: 1px solid #ccc;
             border-bottom: 1px solid #ccc;
+            
         }
     
        section {
