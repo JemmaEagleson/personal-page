@@ -1,0 +1,90 @@
+
+/* John Baskerville CSS Styling */
+
+
+/* Reseting default user-agents */
+
+    body {
+        
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 200px;
+        
+        background: #36393a
+            ;
+        color: #ffffff;
+        padding: 20px;
+        }
+        
+    h1 {  
+        font-family: 'Langdon';
+        font-size: 100px;
+        text-transform: lowercase;
+        letter-spacing: 4px;
+         color: #f95257;
+        text-shadow: 0ps 2px 3px #555;
+
+        padding: px 40px 30px 70px
+            }
+
+    h2 {
+        font-family: 'langdon';
+        font-size: 40px;
+        padding-bottom: 20px;
+        font-weight: 100;
+        text-transform: uppercase;
+        letter-spacing: 4px
+        }
+        
+        h1, h2, h3 {
+            font-weight: normal;
+            text-align: center;
+            margin: 10px 0;
+            }
+       
+    .Intro {
+            font-style: normal;
+            font-size: 20px;
+            text-align: center;
+            margin-top: 30px;
+            }
+
+    .Subtitle{
+            font-style: italic
+            }
+  
+        a {
+        color: #f95257;
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        }
+    
+    a:hover {
+        text-decoration: underline;
+        color: #ffffff;        
+        }
+        
+     nav ul {
+         text-align: center;
+         list-style-type: none
+        }
+        
+        nav ul li {
+            display: inline;
+            margin: 10px;
+        }
+        nav {
+            border-top: 1px solid #ccc;
+            border-bottom: 1px solid #ccc;
+        }
+    
+       section {
+           padding-bottom: 40px
+       }
+       
+        img {
+            display: block;
+            margin: auto;
+        }
+            
