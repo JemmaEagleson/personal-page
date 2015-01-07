@@ -130,6 +130,10 @@
     
     }
 
+.social li img {
+  width: 50px;
+}
+
     footer {
         text-align: center;
         background-color: #36393a;
@@ -138,5 +142,17 @@
 
         }
 
-   
+   .social {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.social li {
+  display: inline;
+  margin: 5px;
+  color: #444;
+}
+
+
+
 
