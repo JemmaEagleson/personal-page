@@ -10,12 +10,16 @@
         font-style: normal;
         font-weight: 200px;
         
-        background: #36393a
+        background: #ffffff
             ;
-        color: #ffffff;
+        color: #36393a;
         padding: 20px;
         }
         
+    div {
+        background-color: #36393a
+    }
+
     h1 {  
         font-family: 'Langdon';
         font-size: 100px;
@@ -33,7 +37,9 @@
         padding-bottom: 20px;
         font-weight: 100;
         text-transform: uppercase;
-        letter-spacing: 4px
+        letter-spacing: 4px;
+        transform-origin: left;
+        color: #ffffff
         }
         
         h1, h2, h3 {
@@ -41,13 +47,21 @@
             text-align: center;
             margin: 10px 0;
             }
-       
+       h3 {
+           color: #f95257;
+           font-family: 'langdon';
+            font-size: 40px;
+            letter-spacing: 4px;
+           text-transform: uppercase
+               
+       }
     .Intro {
             font-style: normal;
             font-size: 20px;
             text-align: center;
             margin-top: 30px;
-            }
+        
+    }
 
     .Subtitle{
             font-style: italic
@@ -62,7 +76,7 @@
     
     a:hover {
         text-decoration: underline;
-        color: #ffffff;        
+        color: #5aa9a8;        
         }
         
      nav ul {
