@@ -6,7 +6,7 @@
 
     body {
         
-        font-family: 'Raleway', 'Verdana';
+        font-family: 'Raleway',;
         font-style: normal;
         font-weight: 200px;
         
@@ -21,13 +21,12 @@
     }
 
     h1 {  
-        font-family: 'Langdon' serif;
+        font-family: 'Langdon', 'Raleway' serif;
         font-size: 100px;
         text-transform: lowercase;
         letter-spacing: 4px;
          color: #f95257;
         text-shadow: 0ps 2px 3px #555;
-
         padding: px 40px 30px 70px
             }
 
