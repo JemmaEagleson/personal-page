@@ -67,10 +67,12 @@
 
     .Intro {
             font-style: normal;
-            font-size: 19px;
+            font-size: 23px;
             text-align: center;
             margin-top: 30px;
             font-weight: normal;
+        padding-left: 120px;
+        padding-right: 120px;
         
     }
 
@@ -78,6 +80,8 @@
  p {
  font-size: 19px;
      font-weight: normal;
+     padding-left: 10px;
+        padding-right: 10px;
  }
     .AMP {font size: 19px;
         
